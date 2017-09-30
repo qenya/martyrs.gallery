@@ -1,0 +1,33 @@
+{% extends "layouts/layout.html" %}
+
+{% block contents %}
+<div class="container {% if image !== false %}container-3col{% endif %}">
+<nav><ul class="sidebar">
+	<li><a href="/" class="sidebar-entry">Home</a></li>
+	{% for name, collection in collections %}
+	{% if name !== "homepage" %}
+	<li><span class="sidebar-entry sidebar-entry-heading">{{name}}</span><ul>
+		{% for item in collection %}
+			{% if path.href === item.path.href %}
+			<li><a href="{{ item.path.href }}" class="sidebar-entry sidebar-entry-active">{{ item.title | safe }}</a></li>
+			{% else %}
+			<li><a href="{{ item.path.href }}" class="sidebar-entry">{{ item.title | safe }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul></li>
+	{% endif %}
+	{% endfor %}
+</ul></nav>
+
+{% if image !== false %}
+<figure class="illustration">
+	<!--<img src="{{image}}" alt="" />-->
+	<img src="/images/illustrations/{{path.dir}}.jpg" alt="" />
+</figure>
+{% endif %}
+
+<main>
+{{ super() }}
+</main>
+</div>
+{% endblock %}

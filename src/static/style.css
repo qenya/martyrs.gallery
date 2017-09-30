@@ -1,0 +1,197 @@
+@font-face {
+	font-family: "Source Sans Pro";
+	src: url("/fonts/SourceSansPro-Regular.otf.woff2") format("woff2"),
+		url("/fonts/SourceSansPro-Regular.otf.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Source Sans Pro";
+	src: url("/fonts/SourceSansPro-Bold.otf.woff2") format("woff2"),
+		url("/fonts/SourceSansPro-Bold.otf.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Source Sans Pro";
+	src: url("/fonts/SourceSansPro-It.otf.woff2") format("woff2"),
+		url("/fonts/SourceSansPro-It.otf.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Source Sans Pro";
+	src: url("/fonts/SourceSansPro-BoldIt.otf.woff2") format("woff2"),
+		url("/fonts/SourceSansPro-BoldIt.otf.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+}
+
+html {
+	font-size: 16px;
+	font-family: "Source Sans Pro", "Myriad Pro", "Trebuchet MS", Helvetica, Tahoma, Arial, sans-serif;
+}
+
+body {
+	max-width: 60rem;
+	margin: 0 auto 1rem auto;
+	padding: 0;
+}
+
+em {
+	color: #E10C1C;
+	font-style: inherit;
+}
+
+header {
+	text-align: center;
+}
+header .logo {
+	margin-bottom: 0;
+}
+header a {
+	color: black;
+	text-decoration: none;
+}
+header a:hover {
+	color: #E10C1C;
+}
+
+address {
+	font-weight: bold;
+	font-style: normal;
+	padding: 0.25rem;
+	background: #f0efe2;
+}
+address:first-of-type {
+	border-top: 1px solid #E10C1C;
+	padding-top: 0.75rem;
+}
+address:last-of-type {
+	border-bottom: 1px solid #E10C1C;
+	padding-bottom: 0.75rem;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+img { width: 100%; }
+img.inline {
+	height: 1em;
+	width: auto;
+}
+
+.sponsorship {
+	margin: 1rem 0;
+}
+.sponsorship img.inline {
+	display: block;
+	height: 3em;
+}
+
+
+.matrix {
+	padding: 0.5rem 0;
+}
+.matrix img {
+	vertical-align: bottom;
+}
+
+
+.sidebar {
+	margin: 0.5rem 0;
+	text-transform: uppercase;
+	word-wrap: nowrap;
+}
+.sidebar-entry {
+	display: block;
+	margin: 1px 0;
+	padding: 0.25rem;
+	background: white;
+	color: black;
+	text-decoration: none;
+}
+.sidebar-entry-heading {
+	background: #E10C1C;
+	font-weight: bold;
+}
+.sidebar-entry-active {
+	color: #E10C1C;
+}
+a.sidebar-entry:hover,
+a.sidebar-entry:focus,
+a.sidebar-entry:active {
+	background: #E10C1C;
+	color: black;
+}
+
+.illustration {
+	margin: 1rem 0;
+}
+.illustration img {
+	padding-bottom: 0.5rem;
+	border-bottom: 1px solid #E10C1C;
+}
+
+main {
+	margin: 0 1rem;
+}
+
+
+@media screen and (min-width: 40rem) {
+	.matrix {
+		display: -ms-grid;
+		display: grid;
+		-ms-grid-columns: 1fr 1fr;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 0.5rem;
+	}
+	@supports (display: -ms-grid) {
+		.matrix > * {
+			margin: 0.5rem;
+		}
+	}
+}
+
+@media screen and (min-width: 60rem) {
+	.matrix {
+		-ms-grid-columns: 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+	
+	header {
+		width: 60rem;
+		margin: 0 auto;
+	}
+	header address {
+		clear: both;
+	}
+	header .logo {
+		display: inline-block;
+		width: 50rem;
+	}
+	
+	.container {
+		display: grid;
+		grid-template-columns: 14rem 1fr;
+		grid-gap: 1rem;
+	}
+	@supports (display: -ms-grid) {
+		.illustration {
+			margin: 1rem;
+		}
+	}
+	.container-3col {
+		grid-template-columns: 14rem 1fr 1fr;
+	}
+	
+	main {
+		margin: 0;
+	}
+}

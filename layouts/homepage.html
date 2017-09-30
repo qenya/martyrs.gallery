@@ -1,0 +1,11 @@
+{% extends "layouts/layout.html" %}
+
+{% block contents %}
+<nav><ul class="matrix">
+	{% for item in collections.homepage %}
+	{% if item["homepage-order"] %}
+	<li><a href="{{item.path.href}}"><img src="/images/navigation/{{item.path.dir}}.jpg" alt="{{item.title|safe}}" /></a></li>
+	{% endif %}
+	{% endfor %}
+</ul></nav>
+{% endblock %}

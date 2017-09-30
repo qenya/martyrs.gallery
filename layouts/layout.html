@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>{% if title %}{{title|safe}} &ndash; {% endif %}Martyrs&rsquo; Gallery and Project Space</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/static/style.css" />
+	<link rel="icon" type="image/png" href="/images/favicon.png" />
+</head>
+<body>
+
+<header>
+	<h1 class="logo"><a href="/"><img src="/images/logo.png" alt="Martyrs&rsquo; Gallery and Project Space" /></a></h1>
+	<address>Star Brewery &bull; between Fisher Street and Castle Ditch Lane &bull; Lewes &bull; BN7 1YJ</address>
+	<address><a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a> &bull; 01273 479155 &bull;
+		<a href="https://www.facebook.com/martyrsgallery"><img src="/images/social-media/facebook.png" alt="Facebook" class="inline" /></a>
+		<a href="https://twitter.com/MartyrsGallery"><img src="/images/social-media/twitter.png" alt="Twitter" class="inline" /></a>
+		<!--<a><img src="/images/social-media/youtube.png" alt="YouTube" class="inline" /></a>-->
+	</address>
+</header>
+
+{% block contents %}
+{{contents|safe}}
+{% endblock %}
+
+</body>
+</html>
