@@ -8,7 +8,7 @@ var permalinks  = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
 	.source('src')
-	.destination('build')
+	.destination('public')
 	.use(permalinks({
 		relative: false
 	}))

@@ -10,6 +10,6 @@ pages:
   - node build.js
   artifacts:
     paths:
-    - build
+    - public
   only:
   - master
