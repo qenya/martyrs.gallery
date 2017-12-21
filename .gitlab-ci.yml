@@ -1,0 +1,15 @@
+image: node:9.3.0
+
+pages:
+  cache:
+    paths:
+    - node_modules/
+
+  script:
+  - npm install
+  - node build.js
+  artifacts:
+    paths:
+    - build
+  only:
+  - master
