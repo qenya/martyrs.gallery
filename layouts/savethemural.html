@@ -1,0 +1,12 @@
+{% extends "layouts/layout.html" %}
+
+{% block contents %}
+<figure class="illustration">
+	<!--<img src="{{image}}" alt="" />-->
+	<img src="/images/illustrations/{{path.dir}}.jpg" alt="" />
+</figure>
+
+<main>
+{{ super() }}
+</main>
+{% endblock %}
