@@ -142,6 +142,9 @@ a.sidebar-entry:active {
 main {
 	margin: 0 1rem;
 }
+#savethemural {
+	text-align: justify;
+}
 
 
 @media screen and (min-width: 40rem) {
