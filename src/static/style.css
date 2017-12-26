@@ -152,6 +152,9 @@ main {
 		grid-template-columns: 1fr 1fr;
 		grid-gap: 0.5rem;
 	}
+	#matrix-savethemural {
+		grid-column: 1 / 3;
+	}
 	@supports (display: -ms-grid) {
 		.matrix > * {
 			margin: 0.5rem;
@@ -163,6 +166,9 @@ main {
 	.matrix {
 		-ms-grid-columns: 1fr 1fr 1fr;
 		grid-template-columns: 1fr 1fr 1fr;
+	}
+	#matrix-savethemural {
+		grid-column: 1 / 4;
 	}
 	
 	header {
