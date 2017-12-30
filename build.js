@@ -3,12 +3,14 @@
 var Metalsmith  = require('metalsmith');
 var collections = require('metalsmith-collections');
 var layouts     = require('metalsmith-layouts');
+var markdown    = require('metalsmith-markdown');
 var paths       = require('metalsmith-paths');
 var permalinks  = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
 	.source('src')
 	.destination('public')
+	.use(markdown())
 	.use(permalinks({
 		relative: false
 	}))
