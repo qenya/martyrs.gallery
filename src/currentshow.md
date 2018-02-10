@@ -19,6 +19,6 @@ Finally, **Tamsin Spargo** brings her London-based practice to Lewes from 19 Feb
 
 Read more in this month&rsquo;s <cite>Viva Lewes</cite> at [http://www.vivabrighton.com/vl-this-months-issue](http://www.vivabrighton.com/vl-this-months-issue "Viva Lewes February 2018") (p.41).
 
-Pippa Ward &middot; Sat 10 &amp; Sun 11 &middot; 12&ndash;4pm  
-Jacky Misson &middot; Sat 17 &amp; Sun 18 &middot; 12&ndash;4pm (open mornings Tues 13&ndash;Thu 15)  
-Tamsin Spargo &middot; Sat 24 &amp; Sun 25 &middot; 12&ndash;4pm (open gallery from Tues 20)
+**Pippa Ward** &middot; Sat 10 &amp; Sun 11 &middot; 12&ndash;4pm  
+**Jacky Misson** &middot; Sat 17 &amp; Sun 18 &middot; 12&ndash;4pm (open mornings Tues 13&ndash;Thu 15)  
+**Tamsin Spargo** &middot; Sat 24 &amp; Sun 25 &middot; 12&ndash;4pm (open gallery from Tues 20)
