@@ -3,7 +3,6 @@ title: Upcoming Exhibition
 collection: Plan a Visit
 collection-order: 30
 homepage-order: 60
-image: false
 ---
 
 ## CLIFF CRAWFORD: <cite>WAVEWORN</cite>
