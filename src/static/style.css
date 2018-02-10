@@ -151,7 +151,7 @@ main {
 }
 
 
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 20rem) {
 	img.endpiece {
 		width: 33.333%;
 	}
@@ -173,7 +173,7 @@ main {
 	}
 }
 
-@media screen and (min-width: 60rem) {
+@media screen and (min-width: 40rem) {
 	img.endpiece {
 		width: 20%;
 	}
