@@ -5,7 +5,7 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## <cite>CLIFF CRAWFORD: WAVEWORN &ndash; 15 Years in the Intertidal Zone
+## CLIFF CRAWFORD: <cite>WAVEWORN &ndash; 15 Years in the Intertidal Zone
 </cite>
 
 **Saturday 3 March &ndash; Friday 23 March, 12 noon&ndash;5pm (Thu&ndash;Sun)**
