@@ -19,6 +19,6 @@ Bexhill artist Cliff Crawford documents weathering and erosion on the Sussex coa
 
 <cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments). 
 
-Read Alex Leith&rsquo;s interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (<cite>Focus On&hellip;</cite>).
+Read Alex Leith&rsquo;s interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (<cite>Focus On</cite>&hellip;).
 
 Find out more about Cliff Crawford&rsquo;s work on [his website](http://cliffface.co.uk/ "Cliff Crawford website").
