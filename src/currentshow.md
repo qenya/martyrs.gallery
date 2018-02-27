@@ -14,12 +14,12 @@ Bexhill artist Cliff Crawford documents weathering and erosion on the Sussex coa
 
 **Friday 2 March, 6pm**
 
-Private View: Refreshments from 6pm, plus talks by Cliff Crawford and Lara Band from [CITiZAN](www.citizan.org.uk "CITiZAN website"), the Coastal and Intertidal Zone Archaeological Network.
+Private View: Refreshments from 6pm, plus talks by Cliff Crawford and Lara Band from [CITiZAN] (http://www.citizan.org.uk "CITiZAN website"), the Coastal and Intertidal Zone Archaeological Network.
 
 **Friday 9 &amp; 23 March, 10am&ndash;12 noon**
 
 Martyrs&rsquo; Writing Group: Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments). 
 
-Read Alex Leith's interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (Focus On&hellip;).
+Read Alex Leith*rsquo;s interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (Focus On&hellip;).
 
-Find out more about Cliff Crawford&rsquo;s work on [his website] (http://cliffface.co.uk/ "Cliff Crawford website").
+Find out more about Cliff Crawford&rsquo;s work on [his website] (http://www.cliffface.co.uk/ "Cliff Crawford website").
