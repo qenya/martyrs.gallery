@@ -1,4 +1,3 @@
-
 ---
 title: Current Exhibition
 collection: Plan a Visit
