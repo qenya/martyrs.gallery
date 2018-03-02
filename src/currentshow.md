@@ -1,3 +1,4 @@
+
 ---
 title: Current Exhibition
 collection: Plan a Visit
@@ -6,6 +7,8 @@ homepage-order: 50
 ---
 
 ## CLIFF CRAWFORD: <cite>WAVEWORN &ndash; 15 Years in the Intertidal Zone</cite>
+
+**<em>Owing to the freezing temperatures and poor outlook, we&rsquo;ve decided reluctantly to postpone Cliff Crawford&rsquo;s PV for Waveworn at Martyrs&rsquo; Gallery tonight. We&rsquo;re so sorry for the disappointment and will reschedule a further event as soon as possible.</em>**
 
 **Saturday 3 March &ndash; Friday 23 March, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
