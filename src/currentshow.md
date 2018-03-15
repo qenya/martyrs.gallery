@@ -7,8 +7,6 @@ homepage-order: 50
 
 ## CLIFF CRAWFORD: <cite>WAVEWORN &ndash; 15 Years in the Intertidal Zone</cite>
 
-**<em>Owing to the freezing temperatures and poor outlook, we&rsquo;ve decided reluctantly to postpone Cliff Crawford&rsquo;s PV for Waveworn at Martyrs&rsquo; Gallery tonight. We&rsquo;re so sorry for the disappointment and will reschedule a further event as soon as possible. </em>**
-
 **Saturday 3 March &ndash; Friday 23 March, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
 Bexhill artist Cliff Crawford documents weathering and erosion on the Sussex coast through the medium of film and stills photography, catalogued by location and date to build up a complete and beautiful archive of change over the decades. Waveworn explores pressing issues of environmental instability, but also timeless human themes of change, impermanence and desire for (the illusion of) control.
@@ -20,6 +18,10 @@ Bexhill artist Cliff Crawford documents weathering and erosion on the Sussex coa
 **Friday 9 &amp; 23 March, 10am&ndash;12 noon**
 
 <cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments). 
+
+**Saturday 17 March, 2&ndash;4pm**
+
+<cite>Artist's Talk:</cite> Join us for drinks, a guided tour around the exhibition by artist Cliff Crawford, and the opportunity to ask questions about his beautiful and fascinating collection of work.
 
 Read Alex Leith&rsquo;s interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (<cite>Focus On</cite>&hellip;).
 
