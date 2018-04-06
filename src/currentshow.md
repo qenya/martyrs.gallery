@@ -5,24 +5,20 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## CLIFF CRAWFORD: <cite>WAVEWORN &ndash; 15 Years in the Intertidal Zone</cite>
+## NOW WE ARE 7:<cite> CHANGE &amp; DISRUPT</cite>
 
-**Saturday 3 March &ndash; Friday 23 March, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: Saturday 7 April &ndash; Friday 27 April, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-Bexhill artist Cliff Crawford documents weathering and erosion on the Sussex coast through the medium of film and stills photography, catalogued by location and date to build up a complete and beautiful archive of change over the decades. Waveworn explores pressing issues of environmental instability, but also timeless human themes of change, impermanence and desire for (the illusion of) control.
+In 2016, women&rsquo;s art collective Now We Are 7, comprising artists Lyn Dale, Nikki Davidson-Bowman, Louise Michele Evans, Marie Ford, Stephanie Grainger, Jules Mitchell and Katy Oxborrow, set out on an experimental journey. Each artist made one piece of work and each month the work changed hands until each artist had contributed towards each piece. In a process of palimpsest, the work evolved or was reused or altered but potentially still bore visible traces of its earlier form. During the year of the project, the artists experienced their own changes and disruptions, in the form of relocation, separation, illness, loss and uncertainty. The result is a body of work that reflects themes of female identity, diversity and transition.
 
-**Friday 2 March, 6pm**
+**Friday 6 April, 6pm**
 
-<cite>Private View:</cite> Refreshments from 6pm, plus talks by Cliff Crawford and Lara Band from [CITiZAN](http://www.citizan.org.uk "CITiZAN website"), the Coastal and Intertidal Zone Archaeological Network.
+<cite>Private View:</cite> Refreshments from 6pm.
 
-**Friday 9 &amp; 23 March, 10am&ndash;12 noon**
+**Friday 13 &amp; 27 April, 10am&ndash;12 noon**
 
-<cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments). 
+<cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments).
 
-**Saturday 17 March, 2&ndash;4pm**
+For more information about Now We Are 7, visit [their website](http://www.nowweare7.com "Now We Are 7 website").
 
-<cite>Artist's Talk:</cite> Join us for drinks, a guided tour around the exhibition by artist Cliff Crawford, and the opportunity to ask questions about his beautiful and fascinating collection of work.
-
-Read Alex Leith&rsquo;s interview with Cliff Crawford in the March edition of [Viva Lewes](http://www.vivabrighton.com/viva-lewes "Viva Lewes website") (<cite>Focus On</cite>&hellip;).
-
-Find out more about Cliff Crawford&rsquo;s work on [his website](http://cliffface.co.uk/ "Cliff Crawford website").
+**This exhibition has been sponsored by a generous donation from the [Chalk Cliff Trust](http://chalkclifftrust.org/ "Chalk Cliff Trust website").**
