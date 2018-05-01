@@ -5,18 +5,16 @@ collection-order: 30
 homepage-order: 60
 ---
 
-## ALISON ALLUM: <cite>IN HER SHOES</cite>
+## PATRICIA THORNTON	: <cite>MAPS AND DREAMS</cite>
 
-**Exhibition: 5&ndash;25 May, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: 2&ndash;22 June, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-Experimental glass artist Alison Allum exploits her medium&rsquo;s qualities of allure, fragility and danger to explore the contradictory experiences of modern womanhood. Combining classic beauty with a knowing theatricality, her collection of glass shoes and drawings portrays a much fetishised aspect of femininity and tempers it with an undercurrent of radicalism and wit.
+A former <cite>FRESH AiR</cite> artist-in-residence, painter Patricia Thornton has built her new collection around news media images of conflict and displacement to explore the interplay between journeys literal and figurative.
 
-**Friday 4 May, 6pm**
+**Friday 1 June, 6pm**
 
 <cite>Private View:</cite> Refreshments from 6pm.
 
-**Friday 11 &amp; 25 May, 10am&ndash;12 noon**
+**Friday 8 &amp; 22 June, 10am&ndash;12 noon**
 
 <cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments).
-
-For more information about Alison Allum, visit [her website](http://www.alisonallum.com "Alison Allum website").

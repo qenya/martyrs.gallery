@@ -5,20 +5,18 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## NOW WE ARE 7:<cite> CHANGE &amp; DISRUPT</cite>
+## ALISON ALLUM: <cite>IN HER SHOES</cite>
 
-**Exhibition: Saturday 7 April &ndash; Friday 27 April, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: 5&ndash;25 May, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-In 2016, women&rsquo;s art collective Now We Are 7, comprising artists Lyn Dale, Nikki Davidson-Bowman, Louise Michele Evans, Marie Ford, Stephanie Grainger, Jules Mitchell and Katy Oxborrow, set out on an experimental journey. Each artist made one piece of work and each month the work changed hands until each artist had contributed towards each piece. In a process of palimpsest, the work evolved or was reused or altered but potentially still bore visible traces of its earlier form. During the year of the project, the artists experienced their own changes and disruptions, in the form of relocation, separation, illness, loss and uncertainty. The result is a body of work that reflects themes of female identity, diversity and transition.
+Experimental glass artist Alison Allum exploits her medium&rsquo;s qualities of allure, fragility and danger to explore the contradictory experiences of modern womanhood. Combining classic beauty with a knowing theatricality, her collection of glass shoes and drawings portrays a much fetishised aspect of femininity and tempers it with an undercurrent of radicalism and wit.
 
-**Friday 6 April, 6pm**
+**Friday 4 May, 6pm**
 
 <cite>Private View:</cite> Refreshments from 6pm.
 
-**Friday 13 &amp; 27 April, 10am&ndash;12 noon**
+**Friday 11 &amp; 25 May, 10am&ndash;12 noon**
 
 <cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments).
 
-For more information about Now We Are 7, visit [their website](http://www.nowweare7.com "Now We Are 7 website").
-
-**This exhibition has been sponsored by a generous donation from the [Chalk Cliff Trust](http://chalkclifftrust.org/ "Chalk Cliff Trust website").**
+For more information about Alison Allum, visit [her website](http://www.alisonallum.com "Alison Allum website").
