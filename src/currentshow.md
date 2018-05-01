@@ -15,8 +15,4 @@ Experimental glass artist Alison Allum exploits her medium&rsquo;s qualities of 
 
 <cite>Private View:</cite> Refreshments from 6pm.
 
-**Friday 11 &amp; 25 May, 10am&ndash;12 noon**
-
-<cite>Martyrs&rsquo; Writing Group:</cite> Writers of fiction or non-fiction can use the gallery space free of charge for a calm, quiet, untutored drop-in session, inspired by the current exhibition (bring own materials and refreshments).
-
 For more information about Alison Allum, visit [her website](http://www.alisonallum.com "Alison Allum website").
