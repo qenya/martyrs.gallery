@@ -5,14 +5,24 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## ALISON ALLUM: <cite>IN HER SHOES</cite>
+## PATRICIA THORNTON: <cite>MAPS AND DREAMS</cite>
 
-**Exhibition: 5&ndash;25 May, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: 2&ndash;22 June, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-Experimental glass artist Alison Allum exploits her medium&rsquo;s qualities of allure, fragility and danger to explore the contradictory experiences of modern womanhood. Combining classic beauty with a knowing theatricality, her collection of glass shoes and drawings portrays a much fetishised aspect of femininity and tempers it with an undercurrent of radicalism and wit.
+A former FRESH AiR artist-in-residence, painter Patricia Thornton has built her new collection around news media images of conflict and displacement to explore the interplay between journeys literal and figurative.
 
-**Friday 4 May, 6pm**
+**Friday 1 June, 6pm**
 
 <cite>Private View:</cite> Refreshments from 6pm.
 
-For more information about Alison Allum, visit [her website](http://www.alisonallum.com "Alison Allum website").
+**Saturday 2 June, 2&ndash:5pm**
+
+Free drawing workshop with Patricia Thornton, exploring movement and the human form. Materials will be provided. Please reserve a place by emailing <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
+
+**Saturday 16 June, 2&ndash;5pm
+
+Flash fiction event inspired by the exhibition, led by poet and publisher Gretchen Heffernan.
+
+NB There will be no Martyrs&rsquo; Writing Group session in June. 
+
+Read more about Pat Thornton in the [June edition of Viva Lewes (p49)](http://www.vivabrightoncom/viva-lewes).
