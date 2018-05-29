@@ -25,6 +25,6 @@ We maintain a mailing list for the purpose of sending monthly e-newsletters and 
 
 We maintain a hard-copy visitors book at the gallery, in which visitors are invited to sign their name and leave an email address and/or a comment about the exhibition they have visited. Our visitors book is a valuable source of feedback both to the gallery and to visiting artists and helps us to be responsive to your thoughts and opinions. If you visit the gallery you are under no obligation to write in the visitors book, and if you choose to do so you are under no obligation to include your email address. If you choose to leave your email address in the visitors book, you do so on the understanding that the visitors book is left open and unattended in a public place for substantial amounts of time. If you choose to leave your email address in the visitors book, we may add your email address to our mailing list.
 
-If you have any questions or comments about this privacy policy or the data we hold about you, email us at info@martyrs.gallery.
+If you have any questions or comments about this privacy policy or the data we hold about you, email us at <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
 
 Updated May 2018
