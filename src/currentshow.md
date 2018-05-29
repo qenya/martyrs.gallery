@@ -25,4 +25,4 @@ Flash fiction event inspired by the exhibition, led by poet and publisher Gretch
 
 NB There will be no Martyrs&rsquo; Writing Group session in June. 
 
-Read more about Pat Thornton in the [June edition of Viva Lewes (p49)](http://www.vivabrightoncom/viva-lewes).
+Read more about Pat Thornton in the [June edition of Viva Lewes (p49)](http://www.vivabrightoncom/viva-lewes). 

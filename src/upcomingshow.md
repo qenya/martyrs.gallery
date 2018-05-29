@@ -21,4 +21,4 @@ The exhibition takes place from <strong>7 to 27 July 2018</strong> (gallery hour
 
 <cite>Africa 21</cite> is generously supported by Cedarberg Travel Africa.
 
-<img align="center" src="images/cblogo2.jpg" />
+<img align="center" src="images/cblogo2.jpg" /> 
