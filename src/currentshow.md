@@ -19,6 +19,10 @@ A former FRESH AiR artist-in-residence, painter Patricia Thornton has built her 
 
 Free drawing workshop with Patricia Thornton, exploring movement and the human form. Materials will be provided. Please reserve a place by emailing <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
 
+**Saturday 9 June, 2&ndash;4pm**
+
+A special event in association with Refugee Tales and Lewes Organisation in Support of Refugees and Asylum Seekers (LOSRAS), including a short film, a talk by Mary Barrett, a reading by actor Jonathan Cullen of The Detainee&rsquo;s Tale by Ali Smith, refreshments and bookstall. .
+
 **Saturday 16 June, 2&ndash;5pm**
 
 Flash fiction event inspired by the exhibition, led by poet and publisher Gretchen Heffernan.
