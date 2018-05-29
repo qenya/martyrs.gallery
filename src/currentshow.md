@@ -15,11 +15,11 @@ A former FRESH AiR artist-in-residence, painter Patricia Thornton has built her 
 
 <cite>Private View:</cite> Refreshments from 6pm.
 
-**Saturday 2 June, 2&ndash:5pm**
+**Saturday 2 June, 2&ndash;5pm**
 
 Free drawing workshop with Patricia Thornton, exploring movement and the human form. Materials will be provided. Please reserve a place by emailing <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
 
-**Saturday 16 June, 2&ndash;5pm
+**Saturday 16 June, 2&ndash;5pm**
 
 Flash fiction event inspired by the exhibition, led by poet and publisher Gretchen Heffernan.
 
