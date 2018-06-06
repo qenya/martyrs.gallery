@@ -17,7 +17,7 @@ Photographers and photojournalists wanting their work to be considered for inclu
 
 The exhibition takes place from <strong>7 to 27 July 2018</strong> (gallery hours are Thursday to Sunday, 12 noon to 5pm). All photographers will be invited to attend a drinks reception and <strong>Private View on Friday 6 July</strong> 2018.
 
-<strong>The closing date for submissions is midnight on Sunday 3 June 2018.</strong> Please ensure that all submissions are accompanied by a note of your contact details.
+<strong>The closing date for submissions is midnight on Sunday 17 June 2018.</strong> Please ensure that all submissions are accompanied by a note of your contact details.
 
 <cite>Africa 21</cite> is generously supported by Cedarberg Travel Africa.
 
