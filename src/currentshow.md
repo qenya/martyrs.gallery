@@ -18,3 +18,5 @@ Our July show is a group exhibition of photography that grew out of an interest 
 <cite>Africa 21</cite> has been devised as a response to this narrative, bringing together work by photographers from Africa, of African origin or with connections to Africa, to reframe 21st century Africa as a mature, upwardly-mobile society &ndash; a continent that has come of age.
 
 <cite>Africa 21</cite> is generously supported by Cedarberg Travel Africa.
+
+<p><img src="../images/cblogo.jpg" /></p>
