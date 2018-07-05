@@ -5,28 +5,16 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## PATRICIA THORNTON: <cite>MAPS AND DREAMS</cite>
+## <em>OWING TO CIRCUMSTANCES OUTWITH OUR CONTROL, OUR JULY EXHIBITION HAS BEEN POSTPONED FOR THE TIME BEING. WE APOLOGISE FOR ANY INCONVENIENCE CAUSED BY THE TEMPORARY CLOSURE OF THE GALLERY.</em>
 
-**Exhibition: 2&ndash;22 June, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+## <cite>AFRICA 21</cite>
 
-A former FRESH AiR artist-in-residence, painter Patricia Thornton has built her new collection around news media images of conflict and displacement to explore the interplay between journeys literal and figurative.
+**Exhibition: 7&ndash;27 July, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-**Friday 1 June, 6pm**
+**Private View: Friday 6 July, 6pm**
 
-<cite>Private View:</cite> Refreshments from 6pm.
+Our July show is a group exhibition of photography that grew out of an interest in the burgeoning culture of African-based photojournalism, and an awareness that visual depictions of Africa have become mired in European and American perspectives of Africa and African society as &lsquo;primitive&rsquo;, as poor, as war-torn, as a repository of poorly managed natural beauty, etc. In turn, this militates against the production of images that depict Africa as a modern, developing continent.
 
-**Saturday 2 June, 2&ndash;5pm**
+<cite>Africa 21</cite> has been devised as a response to this narrative, bringing together work by photographers from Africa, of African origin or with connections to Africa, to reframe 21st century Africa as a mature, upwardly-mobile society &ndash; a continent that has come of age.
 
-Free drawing workshop with Patricia Thornton, exploring movement and the human form. Materials will be provided. Please reserve a place by emailing <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
-
-**Saturday 9 June, 2&ndash;4pm**
-
-A special event in association with Refugee Tales and Lewes Organisation in Support of Refugees and Asylum Seekers (LOSRAS), including a short film, a talk by Mary Barrett, a reading by actor Jonathan Cullen of The Detainee&rsquo;s Tale by Ali Smith, refreshments and bookstall.
-
-**Saturday 16 June, 2&ndash;5pm**
-
-Flash fiction event inspired by the exhibition, led by poet and publisher Gretchen Heffernan.
-
-NB There will be no Martyrs&rsquo; Writing Group session in June. 
-
-Read more about Pat Thornton in the [June edition of Viva Lewes (p49)](http://www.vivabrighton.com/viva-lewes). 
+<cite>Africa 21</cite> is generously supported by Cedarberg Travel Africa.
