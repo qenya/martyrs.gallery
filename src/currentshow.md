@@ -5,18 +5,12 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## <em>OWING TO CIRCUMSTANCES OUTWITH OUR CONTROL, OUR JULY EXHIBITION HAS BEEN POSTPONED FOR THE TIME BEING. WE APOLOGISE FOR ANY INCONVENIENCE CAUSED BY THE TEMPORARY CLOSURE OF THE GALLERY.</em>
+## <cite>MARTYRS&rsquo; GALLERY SUMMER SALON</cite>
 
-## <cite>AFRICA 21</cite>
+**Exhibition: 18 August &ndash; 2 September, 12 noon&ndash;5pm (Thu&ndash;Sun, plus Bank Holiday Monday)**
 
-**Exhibition: 7&ndash;27 July, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Private View: Friday 17 August, 6pm**
 
-**Private View: Friday 6 July, 6pm**
+Our Summer Salon is back! Timed to coincide with Lewes Artwave Festival, our summer exhibition brings you an exciting range of contemporary work by local and regional artists at affordable prices. Make us a first port of call on your art journey around the town centre! This year&rsquo;s show features a special showcase by Lewes artist Anouk Emanuel, as well as an eclectic selection of painting, drawing, prints, photography and 3D work.
 
-Our July show is a group exhibition of photography that grew out of an interest in the burgeoning culture of African-based photojournalism, and an awareness that visual depictions of Africa have become mired in European and American perspectives of Africa and African society as &lsquo;primitive&rsquo;, as poor, as war-torn, as a repository of poorly managed natural beauty, etc. In turn, this militates against the production of images that depict Africa as a modern, developing continent.
-
-<cite>Africa 21</cite> has been devised as a response to this narrative, bringing together work by photographers from Africa, of African origin or with connections to Africa, to reframe 21st century Africa as a mature, upwardly-mobile society &ndash; a continent that has come of age.
-
-<cite>Africa 21</cite> is generously supported by Cedarberg Travel Africa.
-
-<p><img src="../images/cblogo.jpg" /></p>
+Don&rsquo;t miss our famous Summer Salon Private View on the eve of Artwave, Friday 17 August, from 6pm, when we offer you the opportunity to meet our artists over drinks and light refreshments and snap up the first bargains of the festival.
