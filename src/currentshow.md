@@ -5,12 +5,12 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## <cite>MARTYRS&rsquo; GALLERY SUMMER SALON</cite>
+## <cite>COOP presents U TURN</cite>
 
-**Exhibition: 18 August &ndash; 2 September, 12 noon&ndash;5pm (Thu&ndash;Sun, plus Bank Holiday Monday)**
+**Saturday 15 &amp; Sunday 16 September ONLY (12 noon&ndash;5pm)**
 
-**Private View: Friday 17 August, 6pm**
+A lone filmed foot turns and returns, front to back, back-to-front, to stay in the same spot, simultaneously rising, ready to step off the floor, and descending, impelled by gravity. No one can say which direction this dislocated foot is moving in, only that it is alive and has spun off into a mad but measured dance of its own. Is it showing off? Calling for help? It appears deeply vulnerable without a body to guide it as it tries to assert its independence&hellip;
 
-Our Summer Salon is back! Timed to coincide with Lewes Artwave Festival, our summer exhibition brings you an exciting range of contemporary work by local and regional artists at affordable prices. Make us a first port of call on your art journey around the town centre! This year&rsquo;s show features a special showcase by Lewes artist Anouk Emanuel, as well as an eclectic selection of painting, drawing, prints, photography and 3D work.
+<strong>coop</strong> are an artist duo who work collaboratively in the space between drawing, projection and animation. <strong><cite>U turn</cite></strong>, a work created specifically for Martyrs&rsquo; Gallery, is a dislocated limb separated from the body of work they have created for an exhibition at Anglia Ruskin Gallery, Cambridge later this year. The animated digital work and drawn elements will be accompanied by an extended performance that, though minimal, will form a dialogue with real-time changes in the animation.
 
-Don&rsquo;t miss our famous Summer Salon Private View on the eve of Artwave, Friday 17 August, from 6pm, when we offer you the opportunity to meet our artists over drinks and light refreshments and snap up the first bargains of the festival.
+<strong>coop</strong> are Clio Lloyd-Jacob and Andrew James.
