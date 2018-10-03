@@ -5,12 +5,10 @@ collection-order: 30
 homepage-order: 60
 ---
 
-## <cite>SOMETHING GLOWING AND ALIVE</cite>: WORKS BY CHAGALL, PIPER & SUTHERLAND
+## VIVIENNE LYNN: <cite>PRESENCE OF ABSENCE, ABSENCE OF PRESENCE</cite>
 
-**Private View: Friday 9 November, 6pm**
+**Private View: Friday 5 October, 6pm**
 
-**Exhibition: 10 November &ndash; 16 December, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: 6&ndash;26 October, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-We are delighted to present in association with Goldmark Gallery a sale of prints, lithographs and original drawings by Marc Chagall, John Piper and Graham Sutherland, three luminaries of twentieth-century art whose work was famously commissioned by Walter Hussey for Chichester Cathedral.
-
-All Martyrs&rsquo; profits from sales at this exhibition will be donated to the St Michael&rsquo;s Organ Appeal..
+Artist, researcher and critical theorist Vivienne Lynn opens up new perspectives and conversations on dementia via an eclectic collection of visual evidence of a person&rsquo;s existence, exploring themes of memory, identity, essence and loss.
