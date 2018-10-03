@@ -8,6 +8,7 @@ homepage-order: 50
 ## VIVIENNE LYNN: <cite>PRESENCE OF ABSENCE, ABSENCE OF PRESENCE</cite>
 
 **Private View: Friday 5 October, 6pm**
+
 **Exhibition: 6&ndash;26 October, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
 Artist, researcher and critical theorist Vivienne Lynn uses film, photography, personal and found artefacts, and a diverse range of scientific techniques to present an eclectic body of work that explores issues around the essence of a human individual, the nature of identity and the facets of Western society that our responses to old age betray. In the course of unpacking these ideas, she also offers an insight into how we experience memory, loss and grief, and creates a tender portrait of her mother&rsquo;s journey through dementia and eventual death in 2017.

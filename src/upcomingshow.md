@@ -5,7 +5,7 @@ collection-order: 30
 homepage-order: 60
 ---
 
-## <cite>SOMETHING GLOWING AND ALIVE</cite>: WORKS BY CHAGALL, PIPER & SUTHERLAND
+## <cite>SOMETHING GLOWING AND ALIVE</cite>: WORKS BY CHAGALL, PIPER &amp;	 SUTHERLAND
 
 **Private View: Friday 9 November, 6pm**
 
