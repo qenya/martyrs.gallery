@@ -15,7 +15,7 @@ Artist, researcher and critical theorist Vivienne Lynn uses film, photography, p
 
 **Saturday 13 October, 2pm**
 
-Artist walk-and-talk: Join Vivienne Lynn in the gallery for a discussion of her tecniques and the meaning of her work.
+Artist walk-and-talk: Join Vivienne Lynn in the gallery for a discussion of her techniques and the meaning of her work.
 
 **Saturday 20 October, 2pm**
 
