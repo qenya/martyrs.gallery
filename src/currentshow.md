@@ -5,12 +5,19 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## <cite>COOP presents U TURN</cite>
+## VIVIENNE LYNN: <cite>PRESENCE OF ABSENCE, ABSENCE OF PRESENCE</cite>
 
-**Saturday 15 &amp; Sunday 16 September ONLY (12 noon&ndash;5pm)**
+**Private View: Friday 5 October, 6pm**
+**Exhibition: 6&ndash;26 October, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-A lone filmed foot turns and returns, front to back, back-to-front, to stay in the same spot, simultaneously rising, ready to step off the floor, and descending, impelled by gravity. No one can say which direction this dislocated foot is moving in, only that it is alive and has spun off into a mad but measured dance of its own. Is it showing off? Calling for help? It appears deeply vulnerable without a body to guide it as it tries to assert its independence&hellip;
+Artist, researcher and critical theorist Vivienne Lynn uses film, photography, personal and found artefacts, and a diverse range of scientific techniques to present an eclectic body of work that explores issues around the essence of a human individual, the nature of identity and the facets of Western society that our responses to old age betray. In the course of unpacking these ideas, she also offers an insight into how we experience memory, loss and grief, and creates a tender portrait of her mother&rsquo;s journey through dementia and eventual death in 2017.
 
-<strong>coop</strong> are an artist duo who work collaboratively in the space between drawing, projection and animation. <strong><cite>U turn</cite></strong>, a work created specifically for Martyrs&rsquo; Gallery, is a dislocated limb separated from the body of work they have created for an exhibition at Anglia Ruskin Gallery, Cambridge later this year. The animated digital work and drawn elements will be accompanied by an extended performance that, though minimal, will form a dialogue with real-time changes in the animation.
+**Saturday 13 October, 2pm**
 
-<strong>coop</strong> are Clio Lloyd-Jacob and Andrew James.
+Artist walk-and-talk: Join Vivienne Lynn in the gallery for a discussion of her tecniques and the meaning of her work.
+
+**Saturday 20 October, 2pm**
+
+Join us for a special performance by Lewes Memory Choir, led by Mae Heydorn.
+
+**Please ask in the gallery or email <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a> for more information about our short series of drawing workshops for adults with memory loss, led by Vivienne Lynn and Sharon Fraser Hall.**
