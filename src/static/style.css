@@ -91,6 +91,11 @@ img.endpiece {
 	margin: 0.5em auto;
 }
 
+h1 {
+	text-align: center;
+	color: #E10C1C;
+}
+
 .sponsorship {
 	margin: 1rem 0;
 }
