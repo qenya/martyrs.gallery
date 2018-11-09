@@ -5,20 +5,15 @@ collection-order: 20
 homepage-order: 50
 ---
 
-## VIVIENNE LYNN: <cite>PRESENCE OF ABSENCE, ABSENCE OF PRESENCE</cite>
+## <cite>SOMETHING GLOWING AND ALIVE</cite>: WORKS BY CHAGALL, PIPER &amp; SUTHERLAND
 
-**Private View: Friday 5 October, 6pm**
+**Private View: Friday 9 November, 6pm**
 
-**Exhibition: 6&ndash;26 October, 12 noon&ndash;5pm (Thu&ndash;Sun)**
+**Exhibition: 10 November &ndash; 16 December, 12 noon&ndash;5pm (Thu&ndash;Sun)**
 
-Artist, researcher and critical theorist Vivienne Lynn uses film, photography, personal and found artefacts, and a diverse range of scientific techniques to present an eclectic body of work that explores issues around the essence of a human individual, the nature of identity and the facets of Western society that our responses to old age betray. In the course of unpacking these ideas, she also offers an insight into how we experience memory, loss and grief, and creates a tender portrait of her mother&rsquo;s journey through dementia and eventual death in 2017.
+In association with Goldmark Gallery, we are delighted to present a vibrantly colourful exhibition of prints, lithographs and some original drawings and etchings  by Marc Chagal, John Piper and Graham Sutherland, three artists indelibly associated with Chichester Cathedral, having been commissioned to produce ecclesiastical art by Dean Walter Hussey during the 1960s and 1970s. Controversial in their time &ndash; all raised an eyebrow at the time of their installation, prompting a lone supporter of the Piper tapestries to protest that it was cheering to see &lsquo;something glowing and alive&rsquo; in the Cathedral &ndash; Chagall, Piper and Sutherland are now among the most collectible of twentieth-century artists and everything in the exhibition is for sale, together with a selection of recent stained glass by Patrick Reyntiens, John Piper&rsquo;s long-term collaborator.
 
-**Saturday 13 October, 2pm**
+**Martyrs&rsquo; Drawing Workshops: Wednesdays 14, 21 & 28 November, 5 & 12 December, 10.30am&ndash;3.30pm**
 
-Artist walk-and-talk: Join Vivienne Lynn in the gallery for a discussion of her techniques and the meaning of her work.
+Join artists Pat Thornton and Rachael Adams every Wednesday throughout the exhibition for a practical drawing workshop inspired by Piper and Sutherland&rsquo;s neo-romanticism &ndash; a wartime tendency that combined an interest in the sublime aspects of romanticism with a  psychological sensibility &ndash; and exemplified by dramatic depictions of architectural ruins. Drawing from models, objects and &lsquo;prop&rsquo; set-ups, Pat and Rachael will show you how to use a variety of techniques and media to create moody, atmospheric 2D and 3D images. Workshops are stand-alone sessions but trace a progression through ideas and techniques if you book all five, and are suitable for all levels of experience. £35 per day or £150 for all five. Booking is essential as Pat’s workshops last winter inspired by the Tristram Panels were extremely popular. Further info and booking details from <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a>.
 
-**Saturday 20 October, 2pm**
-
-Join us for a special performance by Lewes Memory Choir, led by Mae Heydorn.
-
-**Please ask in the gallery or email <a href="mailto:info@martyrs.gallery">info@martyrs.gallery</a> for more information about our short series of drawing workshops for adults with memory loss, led by Vivienne Lynn and Sharon Fraser Hall.**
