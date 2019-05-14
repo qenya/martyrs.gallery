@@ -32,6 +32,18 @@ Metalsmith(__dirname)
 	.use(paths({
 		directoryIndex: "index.html"
 	}))
+	
+	// Custom middleware to change the calculated path to the value of the "canonical" parameter, if any.
+	// TODO this system is very hacky - rewrite when under less time pressure
+	.use(function(files, metalsmith, done) {
+		Object.keys(files).forEach(function(file){
+			if (files[file].canonical) {
+				files[file].path.href = files[file].canonical;
+			}
+		});
+		done();
+	})
+	
 	.use(require("metalsmith-debug")())
 	.use(layouts({
 		engine: 'nunjucks',
