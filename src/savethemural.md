@@ -1,7 +1,7 @@
 ---
 title: Save the Feibusch Mural
 layout: standalone.html
-canonical: https://www.savethemural.org/
+canonical: http://www.savethemural.org/
 homepage-order: 5
 ---
 
